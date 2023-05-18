@@ -23,6 +23,8 @@ A calculadora deverá realizar as operações de:
 + potência de dois números (numeroUm ^ numeroDois)
 + raiz quadrada de dois números (numeroUm √ numeroDois)
 
+### Observações Importantes
+
 Caso algum a divisão seja por zero, o programa deverá imprimir uma mensagem:
 
 "Impossível realizar uma divisão por zero."
