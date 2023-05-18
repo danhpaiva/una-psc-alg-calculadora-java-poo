@@ -13,7 +13,7 @@ Fixação de conteúdo programático da UC de Programação de Soluções Comput
 ## Calculadora em Java - POO - Abstração
 
 O desafio será criar uma calculadora em Java e utilizar os conceitos de POO já apreendidos em aula.<br>
-A calculadora trabalhará com dois parâmetros.<br>
+A calculadora trabalhará com ***02 parâmetros***.<br>
 A calculadora deverá realizar as operações de:
 
 + adição de dois números (numeroUm + numeroDois)
@@ -36,10 +36,10 @@ Caso o usuário informe um número negativo para calcular sua raiz quadrada, inf
 Todo número elevado a zero será igual a 1.
 
 O usuário poderá solicitar quantas vezes quiser as operações.<br>
-Caso o usuário queira sair do programa deverá digitar a tecla 'Q' para que o programa seja encerrado.
+Caso o usuário queira sair do programa deverá digitar a tecla ***'Q'*** para que o programa seja encerrado.
 
 ## Como fazer
 
 Utilize a IDE de sua preferência para realizar o trabalho.<br>
-Faça os algoritmos em Java.<br>
-Utilize o conceito de Abstração da POO para realizar o exercício.
+Faça os algoritmos em ***Java***.<br>
+Utilize o conceito de ***Abstração da POO*** para realizar o exercício.
