@@ -21,7 +21,7 @@ A calculadora deverá realizar as operações de:
 + multiplicação de dois números (numeroUm * numeroDois)
 + divisão de dois números (numeroUm / numeroDois)
 + potência de dois números (numeroUm ^ numeroDois)
-+ raiz quadrada de dois números (numeroUm √ numeroDois)
++ raiz quadrada de dois números ( √ numeroUm)
 
 ### Observações Importantes
 
