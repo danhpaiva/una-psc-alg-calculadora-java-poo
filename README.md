@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#">
     <kbd>
-      <img src="logo\calc.jpg" width="300" alt="Calculadora">
+      <img src="logo\calc.jpg" width="200" alt="Calculadora">
     <kbd>
   </a>
 </p>
