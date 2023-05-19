@@ -21,11 +21,11 @@ A calculadora deverá realizar as operações de:
 + multiplicação de dois números (numeroUm * numeroDois)
 + divisão de dois números (numeroUm / numeroDois)
 + potência de dois números (numeroUm ^ numeroDois)
-+ raiz quadrada de dois números (numeroUm √ numeroDois)
++ raiz quadrada de dois números (√numeroUm)
 
 ### Observações Importantes
 
-Caso algum a divisão seja por zero, o programa deverá imprimir uma mensagem:
+Caso a divisão seja por zero (o segundo número informado), o programa deverá imprimir uma mensagem:
 
 "Impossível realizar uma divisão por zero."
 
@@ -38,7 +38,7 @@ Todo número elevado a zero será igual a 1.
 O usuário poderá solicitar quantas vezes quiser as operações.<br>
 Caso o usuário queira sair do programa deverá digitar a tecla ***'Q'*** para que o programa seja encerrado.
 
-## Como fazer
+## Orientações Finais
 
 Utilize a IDE de sua preferência para realizar o trabalho.<br>
 Faça os algoritmos em ***Java***.<br>
